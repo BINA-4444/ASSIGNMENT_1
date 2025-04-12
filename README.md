@@ -1,2 +1,3 @@
 # ASSIGNMENT_1
-This is my first project on github
+ASSI1_1 : TIME TABLE
+ASSI1_2 : TIME TABLE
